@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T04:16:22.112Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.0" etag="gcTJsqzgspIZSUtgyAzT" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-31T05:07:36.119Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Irm2TBdJ8HDs_IiW9KmU" version="21.7.0" type="github">
   <diagram name="Page-1" id="VHcLN4SMKUu-ofED9eXl">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JGTxiaLCYtGQJOwVg4x5-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JGTxiaLCYtGQJOwVg4x5-1" target="JGTxiaLCYtGQJOwVg4x5-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JGTxiaLCYtGQJOwVg4x5-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JGTxiaLCYtGQJOwVg4x5-1" target="JGTxiaLCYtGQJOwVg4x5-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JGTxiaLCYtGQJOwVg4x5-1" value="&lt;b&gt;&lt;u&gt;nomina&lt;/u&gt;&lt;/b&gt;&lt;br&gt;horasTrabajadas&lt;br&gt;salarios&lt;br&gt;bonificacion&lt;br&gt;horaExtra&lt;br&gt;ausencia&lt;br&gt;descuentoPrestamo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="60" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="JGTxiaLCYtGQJOwVg4x5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JGTxiaLCYtGQJOwVg4x5-2" target="JGTxiaLCYtGQJOwVg4x5-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JGTxiaLCYtGQJOwVg4x5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JGTxiaLCYtGQJOwVg4x5-2" target="JGTxiaLCYtGQJOwVg4x5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JGTxiaLCYtGQJOwVg4x5-2" value="empleado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JGTxiaLCYtGQJOwVg4x5-3" value="pagos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JGTxiaLCYtGQJOwVg4x5-4" value="deducciones" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JGTxiaLCYtGQJOwVg4x5-13" value="pagosAdicionales" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JGTxiaLCYtGQJOwVg4x5-20" value="salarioBruto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="95" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
